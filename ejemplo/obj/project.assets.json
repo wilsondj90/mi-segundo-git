@@ -7080,10 +7080,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\users\\wcorrea\\documents\\visual studio 2017\\Projects\\ejemplo\\ejemplo\\ejemplo.csproj",
+      "projectUniqueName": "C:\\Users\\wcorrea\\Desktop\\practicas de Git\\mi-segundo-git\\ejemplo\\ejemplo.csproj",
       "projectName": "ejemplo",
-      "projectPath": "c:\\users\\wcorrea\\documents\\visual studio 2017\\Projects\\ejemplo\\ejemplo\\ejemplo.csproj",
-      "outputPath": "c:\\users\\wcorrea\\documents\\visual studio 2017\\Projects\\ejemplo\\ejemplo\\obj\\",
+      "projectPath": "C:\\Users\\wcorrea\\Desktop\\practicas de Git\\mi-segundo-git\\ejemplo\\ejemplo.csproj",
+      "outputPath": "C:\\Users\\wcorrea\\Desktop\\practicas de Git\\mi-segundo-git\\ejemplo\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"

@@ -2,6 +2,8 @@
 using System.Collections.Generic;
 using System.Text;
 
+
+
 namespace Maquina_Chocolates
 {
     class Productos
@@ -20,8 +22,8 @@ namespace Maquina_Chocolates
 
             {
                 Console.WriteLine("¿Que producto desea comprar:? \n" +
-                                  "1.Chocolatina golpe $ 1500. \n" +
-                                  "2.Detodito BBQ $ 1900. \n" +
+                                  "1.Pan leche BimBo $ 800. \n" +
+                                  "2.DSalchichon Cervecero $ 1200. \n" +
                                   "3.Chitos picantes $ 1300. \n" +
                                   "4.Gaseosa cocacola $ 2500. \n" +
                                   "5.Pandebono $ 2500.");
