@@ -1,0 +1,5 @@
+c:\users\wcorrea\documents\visual studio 2017\Projects\ejemplo\ejemplo\bin\Debug\netcoreapp1.1\ejemplo.deps.json
+c:\users\wcorrea\documents\visual studio 2017\Projects\ejemplo\ejemplo\bin\Debug\netcoreapp1.1\ejemplo.runtimeconfig.json
+c:\users\wcorrea\documents\visual studio 2017\Projects\ejemplo\ejemplo\bin\Debug\netcoreapp1.1\ejemplo.runtimeconfig.dev.json
+c:\users\wcorrea\documents\visual studio 2017\Projects\ejemplo\ejemplo\obj\Debug\netcoreapp1.1\ejemplo.csprojResolveAssemblyReference.cache
+c:\users\wcorrea\documents\visual studio 2017\Projects\ejemplo\ejemplo\obj\Debug\netcoreapp1.1\ejemplo.AssemblyInfo.cs
